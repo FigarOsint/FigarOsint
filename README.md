@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @FigarOsint
+- 👀 I’m interested in OSINT tools
+- 🌱 I’m currently learning how to survive in this crazy world
+- 📫 How to reach me : figarosint@protonmail.com
